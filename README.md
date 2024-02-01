@@ -7,7 +7,7 @@ The results are then written to an output file "output.json."
 - Node.js 
 - npm
 # Project Structure 
-heartrate.json: Input file containing heart rate measurements. 
-output.json: Output file where calculated statistics will be stored. 
-calculateStatistic.js: Main script for processing data and calculating statistics.
-package.json: Node.js project configuration file.
+- heartrate.json: Input file containing heart rate measurements. 
+- output.json: Output file where calculated statistics will be stored. 
+- calculateStatistic.js: Main script for processing data and calculating statistics.
+- package.json: Node.js project configuration file.
